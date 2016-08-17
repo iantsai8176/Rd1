@@ -13,3 +13,6 @@
 
 ##作業(二)
 網址更新 : http://www.freebsd.org/doc/zh_TW/books/handbook/basics-processes.html
+
+c9 安裝redis
+https://magiclen.org/ubuntu-redis-php/
